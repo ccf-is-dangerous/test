@@ -1,2 +1,3 @@
 <？php
-的PHPinfo（）;
+PHPinfo（）;
+3333
