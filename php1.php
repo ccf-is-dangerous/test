@@ -1,0 +1,2 @@
+<？php
+的PHPinfo（）;
